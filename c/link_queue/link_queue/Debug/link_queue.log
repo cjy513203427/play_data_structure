@@ -1,0 +1,7 @@
+﻿  link_queue.cpp
+e:\play_data_structure\c\link_queue\link_queue\link_queue.cpp(178): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“QueuePtr”
+e:\play_data_structure\c\link_queue\link_queue\link_queue.cpp(178): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“QueuePtr”
+e:\play_data_structure\c\link_queue\link_queue\link_queue.cpp(178): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“QNode *”
+e:\play_data_structure\c\link_queue\link_queue\link_queue.cpp(181): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“QueuePtr”
+e:\play_data_structure\c\link_queue\link_queue\link_queue.cpp(181): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“QueuePtr”
+  link_queue.vcxproj -> E:\play_data_structure\c\link_queue\Debug\link_queue.exe
