@@ -1,0 +1,3 @@
+﻿  KMP.cpp
+e:\play_data_structure\c\kmp\kmp\kmp.cpp(29): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
+  KMP.vcxproj -> E:\play_data_structure\c\KMP\Debug\KMP.exe
