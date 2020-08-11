@@ -2,16 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eb8f9ec-ea8f-4c92-bf7a-1ddb3190bf87" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c++/link_queue/.vs/link_queue/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/link_queue/.vs/link_queue/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c++/link_queue/.vs/link_queue/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/link_queue/.vs/link_queue/v15/Browse.VC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/link_queue/.vs/link_queue/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/link_queue/.vs/link_queue/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/link_queue/.vs/link_queue/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/link_queue/.vs/link_queue/v15/Browse.VC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/link_queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/link_queue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../link_queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../link_queue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../link_stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../link_stack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/binary_tree_seq/.vs/binary_tree_seq/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/binary_tree_seq/.vs/binary_tree_seq/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/binary_tree_seq/.vs/binary_tree_seq/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/binary_tree_seq/.vs/binary_tree_seq/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/binary_tree_seq/.vs/binary_tree_seq/v15/ipch/AutoPCH/fc2b8c5c7d68fb10/BINARYTREESEQ.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/binary_tree_seq/.vs/binary_tree_seq/v15/ipch/AutoPCH/fc2b8c5c7d68fb10/BINARYTREESEQ.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/binary_tree_seq/Debug/binary_tree_seq.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/binary_tree_seq/Debug/binary_tree_seq.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/binary_tree_seq/Debug/binary_tree_seq.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/binary_tree_seq/Debug/binary_tree_seq.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/binary_tree_seq/Debug/binary_tree_seq.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/binary_tree_seq/Debug/binary_tree_seq.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/binary_tree_seq/binary_tree_seq/BinaryTreeSeq.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/binary_tree_seq/binary_tree_seq/BinaryTreeSeq.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/binary_tree_seq/binary_tree_seq/Debug/BinaryTreeSeq.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/binary_tree_seq/binary_tree_seq/Debug/BinaryTreeSeq.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/binary_tree_seq/binary_tree_seq/Debug/binary_tree_seq.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/binary_tree_seq/binary_tree_seq/Debug/binary_tree_seq.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/binary_tree_seq/binary_tree_seq/Debug/binary_tree_seq.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/binary_tree_seq/binary_tree_seq/Debug/binary_tree_seq.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/binary_tree_seq/binary_tree_seq/Debug/vc141.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/binary_tree_seq/binary_tree_seq/Debug/vc141.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/binary_tree_seq/binary_tree_seq/Debug/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/binary_tree_seq/binary_tree_seq/Debug/vc141.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/binary_tree_seq/.vs/binary_tree_seq/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/binary_tree_seq/.vs/binary_tree_seq/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/binary_tree_seq/.vs/binary_tree_seq/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/binary_tree_seq/.vs/binary_tree_seq/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js/double_stack/double_stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/double_stack/double_stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js/sequence_list/.cache/4b3cd891015d1711e6df6c8f9b1ed8d9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js/sequence_list/.cache/62a96771b9f3a321013e3e7268f2a311.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js/sequence_list/.cache/cc33510eedaa0141c85c2d106873b829.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js/sequence_list/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js/sequence_list/dist/sequence_list.83c6f0c6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js/sequence_list/dist/sequence_list.83c6f0c6.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js/static_link_list/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js/static_link_list/static_link_list.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/static_link_list/static_link_list.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +41,8 @@
       <file leaf-file-name="string_.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/string_.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="712">
-              <caret line="295" lean-forward="true" selection-start-line="295" selection-end-line="295" />
+            <state relative-caret-position="168">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -72,7 +85,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -85,7 +98,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,6 +109,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,7 +171,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -168,7 +181,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.48970747" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
@@ -212,6 +225,13 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/string_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7080">
+          <caret line="295" lean-forward="true" selection-start-line="295" selection-end-line="295" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/string_.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3936">
@@ -263,8 +283,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/string_.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="295" lean-forward="true" selection-start-line="295" selection-end-line="295" />
+        <state relative-caret-position="168">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

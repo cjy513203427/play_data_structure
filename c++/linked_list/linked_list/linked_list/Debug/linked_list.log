@@ -1,5 +1,0 @@
-﻿  linked_list.cpp
-e:\play_data_structure\c++\linked_list\linked_list\linked_list\linked_list.cpp(162): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-e:\play_data_structure\c++\linked_list\linked_list\linked_list\linked_list.cpp(182): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-e:\play_data_structure\c++\linked_list\linked_list\linked_list\linked_list.cpp(180): warning C4101: “i”: 未引用的局部变量
-  linked_list.vcxproj -> E:\play_data_structure\c++\linked_list\linked_list\Debug\linked_list.exe
