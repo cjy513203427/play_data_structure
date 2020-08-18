@@ -33,69 +33,69 @@ Status BinaryTreeLink::InitBiTree(Node *T)
 	Condition: binary tree is exist
 	Result: destroy binary tree
 */
-void BinaryTreeLink::DestroyBiTree(Node **T)
+void BinaryTreeLink::DestroyBiTree(Node *T)
 {
-	if (*T)
+	if (T)
 	{
 		// If tree has left child
-		if ((*T)->lchild)
+		if ((T)->lchild)
 			// Destroy subtree of left child
-			DestroyBiTree(&((*T)->lchild));
+			DestroyBiTree(T->lchild);
 		// If tree has right child
-		if ((*T)->rchild)
+		if (T->rchild)
 			// Destroy subtree of right child
-			DestroyBiTree(&((*T)->rchild));
+			DestroyBiTree(T->rchild);
 		// Relese root node
-		free(*T);
-		*T = NULL;
+		free(T);
+		T = NULL;
 	}
 }
 
 // "#" means empty tree
-void BinaryTreeLink::CreateBiTree(Node** T)
-{
-	TElemType ch;
-
-	ch = str[index++];
-
-	if (ch == '#')
-		*T = NULL;
-	else
-	{
-		*T = new Node();
-		if (!*T)
-			exit(OVERFLOW);
-		// Generate root node
-		(*T)->data = ch;
-		// Construct left subtree
-		CreateBiTree(&(*T)->lchild);
-		// Construct right subtree
-		CreateBiTree(&(*T)->rchild);
-	}
-}
-
-// "#" means empty tree
-//void BinaryTreeLink::CreateBiTree1(Node* T)
+//void BinaryTreeLink::CreateBiTree(Node** T)
 //{
 //	TElemType ch;
 //
 //	ch = str[index++];
 //
 //	if (ch == '#')
-//		T = NULL;
+//		*T = NULL;
 //	else
 //	{
-//		T = new Node();
-//		if (!T)
+//		*T = new Node();
+//		if (!*T)
 //			exit(OVERFLOW);
 //		// Generate root node
-//		T->data = ch;
+//		(*T)->data = ch;
 //		// Construct left subtree
-//		CreateBiTree1(T->lchild);
+//		CreateBiTree(&(*T)->lchild);
 //		// Construct right subtree
-//		CreateBiTree1(T->rchild);
+//		CreateBiTree(&(*T)->rchild);
 //	}
 //}
+
+// "#" means empty tree
+void BinaryTreeLink::CreateBiTree(Node* T)
+{
+	TElemType ch;
+
+	ch = str[index++];
+
+	if (ch == '#')
+		T = NULL;
+	else
+	{
+		T = new Node();
+		if (!T)
+			exit(0);
+		// Generate root node
+		T->data = ch;
+		// Construct left subtree
+		CreateBiTree(T->lchild);
+		// Construct right subtree
+		CreateBiTree(T->rchild);
+	}
+}
 
 /*
 	Condition: binary tree is exist
@@ -170,8 +170,8 @@ void BinaryTreeLink::PreOrderTraverse(Node *T)
 }
 
 /*
-Condition: binary tree is exist
-Result: inorder traverse
+	Condition: binary tree is exist
+	Result: inorder traverse
 */
 void BinaryTreeLink::InOrderTraverse(Node *T)
 {
@@ -183,8 +183,8 @@ void BinaryTreeLink::InOrderTraverse(Node *T)
 }
 
 /*
-Condition: binary tree is exist
-Result: postorder traverse
+	Condition: binary tree is exist
+	Result: postorder traverse
 */
 void BinaryTreeLink::PostOrderTraverse(Node *T)
 {
@@ -206,7 +206,7 @@ int main()
 
 	btl.StrAssign(str, "ABDH#K###E##CFI###G#J##");
 
-	btl.CreateBiTree(&T);
+	btl.CreateBiTree(T);
 
 	printf("After constructing empty binary tree, if the tree is empty? %d(1:true 0:false) depth of the tree is=%d\n", btl.BiTreeEmpty(T), btl.BiTreeDepth(T));
 	e1 = btl.Root(T);
@@ -218,7 +218,7 @@ int main()
 	btl.InOrderTraverse(T);
 	printf("\n Postorder traverse:");
 	btl.PostOrderTraverse(T);
-	btl.ClearBiTree(&T);
+	btl.ClearBiTree(T);
 	printf("\n After clearing binary tree, if the tree is empty? %d(1:true 0:false) depth of the tree is=%d\n", btl.BiTreeEmpty(T), btl.BiTreeDepth(T));
 	i = btl.Root(T);
 	if (!i)

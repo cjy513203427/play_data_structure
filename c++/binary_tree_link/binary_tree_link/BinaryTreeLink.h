@@ -32,9 +32,9 @@ public:
 		Condition: binary tree is exist
 		Result: destroy binary tree
 	*/
-	void DestroyBiTree(Node **T);
+	void DestroyBiTree(Node *T);
 	// "#" means empty tree
-	void CreateBiTree(Node** T);
+	void CreateBiTree(Node* T);
 	/*
 		Condition: binary tree is exist
 		Result: If tree is empty, return true, otherwise return false
