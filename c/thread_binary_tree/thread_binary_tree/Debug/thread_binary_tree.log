@@ -1,0 +1,6 @@
+﻿  ThreadBinaryTree.cpp
+E:\play_data_structure\c\thread_binary_tree\thread_binary_tree\ThreadBinaryTree.cpp(47,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+E:\play_data_structure\c\thread_binary_tree\thread_binary_tree\ThreadBinaryTree.cpp(47,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+E:\play_data_structure\c\thread_binary_tree\thread_binary_tree\ThreadBinaryTree.cpp(47,10): message : 缺失的可变参数 2 为格式字符串“%c”所需
+E:\play_data_structure\c\thread_binary_tree\thread_binary_tree\ThreadBinaryTree.cpp(47,10): message : 此参数用作缓冲区大小
+  thread_binary_tree.vcxproj -> E:\play_data_structure\c\thread_binary_tree\Debug\thread_binary_tree.exe

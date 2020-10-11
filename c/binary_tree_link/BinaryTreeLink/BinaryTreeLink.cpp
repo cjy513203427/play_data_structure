@@ -202,6 +202,17 @@ void PostOrderTraverse(BiTree T)
 	printf("%c", T->data);
 }
 
+/*
+		 A
+	   /   \
+	  B      C
+	 /  \   /  \
+   D    E  F    G
+  /       /      \
+ H       I        J
+  \
+   K
+*/
 
 int main()
 {

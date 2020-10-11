@@ -24,6 +24,7 @@ String str;
 
 class BinaryTreeLink {
 public:
+	Node* BinarTreeLink;
 	Status StrAssign(String T, const char *chars);
 	Status visit(TElemType e);
 	// Construct empty binary tree
@@ -32,9 +33,9 @@ public:
 		Condition: binary tree is exist
 		Result: destroy binary tree
 	*/
-	void DestroyBiTree(Node *T);
+	void DestroyBiTree(Node** T);
 	// "#" means empty tree
-	void CreateBiTree(Node* T);
+	void CreateBiTree(Node** T);
 	/*
 		Condition: binary tree is exist
 		Result: If tree is empty, return true, otherwise return false

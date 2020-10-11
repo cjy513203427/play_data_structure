@@ -34,7 +34,6 @@ public:
 	Status Push(SElemType e);
 	// If stack is not empty,delete top element of S,return deleted element,then return OK,otherwise return ERROR
 	Status Pop(SElemType *e);
-	Status visit(SElemType c);
 	Status StackTraverse();
 };
 

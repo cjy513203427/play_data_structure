@@ -1,0 +1,3 @@
+﻿  HuffmanTree.cpp
+E:\play_data_structure\c++\huffman_tree\huffman_tree\HuffmanTree.cpp(108): warning C4172: 返回局部变量或临时变量的地址: list
+  huffman_tree.vcxproj -> E:\play_data_structure\c++\huffman_tree\Debug\huffman_tree.exe
