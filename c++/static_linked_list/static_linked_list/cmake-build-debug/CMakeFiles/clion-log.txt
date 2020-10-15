@@ -1,0 +1,42 @@
+"D:\CLion 2018.1.7\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/mingw/mingw32/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/msys64/mingw64/bin/clang.exe -DCMAKE_CXX_COMPILER=D:/msys64/mingw64/bin/clang++.exe -G "CodeBlocks - MinGW Makefiles" E:\play_data_structure\c++\static_linked_list\static_linked_list
+-- The C compiler identification is Clang 10.0.1
+-- The CXX compiler identification is Clang 10.0.1
+-- Check for working C compiler: D:/msys64/mingw64/bin/clang.exe
+-- Check for working C compiler: D:/msys64/mingw64/bin/clang.exe -- broken
+CMake Error at D:/CLion 2018.1.7/bin/cmake/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake:52 (message):
+  The C compiler
+
+    "D:/msys64/mingw64/bin/clang.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: E:/play_data_structure/c++/static_linked_list/static_linked_list/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command:"D:/mingw/mingw32/bin/mingw32-make.exe" "cmTC_989af/fast"
+    D:/mingw/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_989af.dir\build.make CMakeFiles/cmTC_989af.dir/build
+    mingw32-make.exe[1]: Entering directory 'E:/play_data_structure/c++/static_linked_list/static_linked_list/cmake-build-debug/CMakeFiles/CMakeTmp'
+    Building C object CMakeFiles/cmTC_989af.dir/testCCompiler.c.obj
+    D:\msys64\mingw64\bin\clang.exe    -o CMakeFiles\cmTC_989af.dir\testCCompiler.c.obj   -c E:\play_data_structure\c++\static_linked_list\static_linked_list\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+    Linking C executable cmTC_989af.exe
+    "D:\CLion 2018.1.7\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_989af.dir\link.txt --verbose=1
+    "D:\CLion 2018.1.7\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_989af.dir/objects.a
+    D:\msys64\mingw64\bin\ar.exe cr CMakeFiles\cmTC_989af.dir/objects.a @CMakeFiles\cmTC_989af.dir\objects1.rsp
+    D:\msys64\mingw64\bin\clang.exe      -Wl,--whole-archive CMakeFiles\cmTC_989af.dir/objects.a -Wl,--no-whole-archive  -o cmTC_989af.exe -Wl,--out-implib,libcmTC_989af.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_989af.dir\linklibs.rsp
+    clang: error: linker command failed due to signal (use -v to see invocation)
+    mingw32-make.exe[1]: *** [CMakeFiles\cmTC_989af.dir\build.make:99: cmTC_989af.exe] Error 1
+    mingw32-make.exe[1]: Leaving directory 'E:/play_data_structure/c++/static_linked_list/static_linked_list/cmake-build-debug/CMakeFiles/CMakeTmp'
+    mingw32-make.exe: *** [Makefile:125: cmTC_989af/fast] Error 2
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "E:/play_data_structure/c++/static_linked_list/static_linked_list/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "E:/play_data_structure/c++/static_linked_list/static_linked_list/cmake-build-debug/CMakeFiles/CMakeError.log".

@@ -15,17 +15,14 @@
       <file leaf-file-name="HuffmanTree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HuffmanTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="164" selection-start-line="164" selection-end-line="164" />
+            <state relative-caret-position="783">
+              <caret line="60" column="19" lean-forward="true" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#430#431#0" expanded="true" />
                 <element signature="e#509#510#0" expanded="true" />
                 <element signature="e#3353#3354#0" expanded="true" />
                 <element signature="e#3402#3403#0" expanded="true" />
-                <element signature="e#3532#3538#0" expanded="true" />
-                <element signature="e#3581#3587#0" expanded="true" />
-                <element signature="e#4562#4568#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,18 +169,19 @@
       <workItem from="1601630330834" duration="5412000" />
       <workItem from="1601715859635" duration="3249000" />
       <workItem from="1602338735771" duration="3244000" />
+      <workItem from="1602511672022" duration="508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36592000" />
+    <option name="totallyTimeSpent" value="37100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -209,6 +207,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,20 +218,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/HuffmanTree.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/HuffmanTree.java</url>
-          <line>164</line>
-          <properties />
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
@@ -271,6 +256,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/HuffmanTree.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3608">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#3353#3354#0" expanded="true" />
+            <element signature="e#3402#3403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HuffmanTree.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2992">
           <caret line="136" column="9" lean-forward="true" selection-start-line="136" selection-start-column="9" selection-end-line="136" selection-end-column="9" />
           <folding>
@@ -279,9 +278,6 @@
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#3353#3354#0" expanded="true" />
             <element signature="e#3402#3403#0" expanded="true" />
-            <element signature="e#3532#3538#0" expanded="true" />
-            <element signature="e#3581#3587#0" expanded="true" />
-            <element signature="e#4562#4568#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -296,9 +292,6 @@
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#3353#3354#0" expanded="true" />
             <element signature="e#3402#3403#0" expanded="true" />
-            <element signature="e#3532#3538#0" expanded="true" />
-            <element signature="e#3581#3587#0" expanded="true" />
-            <element signature="e#4562#4568#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -313,9 +306,6 @@
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#3353#3354#0" expanded="true" />
             <element signature="e#3402#3403#0" expanded="true" />
-            <element signature="e#3532#3538#0" expanded="true" />
-            <element signature="e#3581#3587#0" expanded="true" />
-            <element signature="e#4562#4568#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -330,9 +320,6 @@
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#3353#3354#0" expanded="true" />
             <element signature="e#3402#3403#0" expanded="true" />
-            <element signature="e#3532#3538#0" expanded="true" />
-            <element signature="e#3581#3587#0" expanded="true" />
-            <element signature="e#4562#4568#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -347,9 +334,6 @@
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#3353#3354#0" expanded="true" />
             <element signature="e#3402#3403#0" expanded="true" />
-            <element signature="e#3532#3538#0" expanded="true" />
-            <element signature="e#3581#3587#0" expanded="true" />
-            <element signature="e#4562#4568#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -364,9 +348,6 @@
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#3353#3354#0" expanded="true" />
             <element signature="e#3402#3403#0" expanded="true" />
-            <element signature="e#3532#3538#0" expanded="true" />
-            <element signature="e#3581#3587#0" expanded="true" />
-            <element signature="e#4562#4568#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -381,9 +362,6 @@
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#3353#3354#0" expanded="true" />
             <element signature="e#3402#3403#0" expanded="true" />
-            <element signature="e#3532#3538#0" expanded="true" />
-            <element signature="e#3581#3587#0" expanded="true" />
-            <element signature="e#4562#4568#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -405,9 +383,6 @@
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#3353#3354#0" expanded="true" />
             <element signature="e#3402#3403#0" expanded="true" />
-            <element signature="e#3532#3538#0" expanded="true" />
-            <element signature="e#3581#3587#0" expanded="true" />
-            <element signature="e#4562#4568#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -429,9 +404,6 @@
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#3353#3354#0" expanded="true" />
             <element signature="e#3402#3403#0" expanded="true" />
-            <element signature="e#3532#3538#0" expanded="true" />
-            <element signature="e#3581#3587#0" expanded="true" />
-            <element signature="e#4562#4568#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -453,9 +425,6 @@
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#3353#3354#0" expanded="true" />
             <element signature="e#3402#3403#0" expanded="true" />
-            <element signature="e#3532#3538#0" expanded="true" />
-            <element signature="e#3581#3587#0" expanded="true" />
-            <element signature="e#4562#4568#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -497,17 +466,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HuffmanTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        <state relative-caret-position="783">
+          <caret line="60" column="19" lean-forward="true" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#430#431#0" expanded="true" />
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#3353#3354#0" expanded="true" />
             <element signature="e#3402#3403#0" expanded="true" />
-            <element signature="e#3532#3538#0" expanded="true" />
-            <element signature="e#3581#3587#0" expanded="true" />
-            <element signature="e#4562#4568#0" expanded="true" />
           </folding>
         </state>
       </provider>

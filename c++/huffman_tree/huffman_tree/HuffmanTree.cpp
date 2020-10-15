@@ -20,14 +20,20 @@ Node HuffmanTree::createTree(Node Nodes[], int len) {
         parent->rightChild = &right;
 
         // Delete two nodes, whose value is smallest
-        Nodes[len - 1] = Nodes[len];
+        Node del;
+        del.data = NULL;
+        del.weight =0;
+        Nodes[len - 1] = del;
         len--;
-        Nodes[len - 1] = Nodes[len];
+        Nodes[len - 1] = del;
         len--;
 
         // Put new node into the list
-        Nodes[len] = *parent;
         len++;
+        Nodes[len-1] = *parent;
+
+        delete parent;
+        parent = NULL;
     }
     return Nodes[0];
 }

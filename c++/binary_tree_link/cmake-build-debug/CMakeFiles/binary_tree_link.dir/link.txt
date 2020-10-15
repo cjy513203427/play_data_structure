@@ -1,0 +1,3 @@
+"D:\CLion 2018.1.7\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\binary_tree_link.dir/objects.a
+D:\mingw\mingw32\bin\ar.exe cr CMakeFiles\binary_tree_link.dir/objects.a @CMakeFiles\binary_tree_link.dir\objects1.rsp
+D:\mingw\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\binary_tree_link.dir/objects.a -Wl,--no-whole-archive  -o binary_tree_link.exe -Wl,--out-implib,libbinary_tree_link.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\binary_tree_link.dir\linklibs.rsp

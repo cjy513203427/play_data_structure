@@ -8,4 +8,5 @@ include_directories(huffman_tree)
 add_executable(huffman_tree
         huffman_tree/HuffmanTree.cpp
         huffman_tree/HuffmanTree.h
-        huffman_tree/Node.h)
+        huffman_tree/Node.h
+        CMakeLists.txt)

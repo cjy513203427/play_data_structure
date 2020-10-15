@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/play_data_structure/c++/string_/string_/string_.cpp
+string_.h
+E:/play_data_structure/c++/string_/string_/string_.h
+
+E:/play_data_structure/c++/string_/string_/string_.h
+iostream
+-
+

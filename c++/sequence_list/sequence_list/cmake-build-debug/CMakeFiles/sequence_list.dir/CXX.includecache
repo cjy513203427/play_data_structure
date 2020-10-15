@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/play_data_structure/c++/sequence_list/sequence_list/sequence_list.cpp
+sequence_list.h
+E:/play_data_structure/c++/sequence_list/sequence_list/sequence_list.h
+
+E:/play_data_structure/c++/sequence_list/sequence_list/sequence_list.h
+iostream
+-
+

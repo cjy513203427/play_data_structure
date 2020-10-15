@@ -6,7 +6,6 @@
 2020/9/30 16:36   Jonas           None
 '''
 
-import json
 
 
 class Node(object):

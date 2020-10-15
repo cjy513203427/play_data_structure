@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/play_data_structure/c++/binary_tree_link/binary_tree_link/BinaryTreeLink.cpp
+Node.h
+E:/play_data_structure/c++/binary_tree_link/binary_tree_link/Node.h
+BinaryTreeLink.h
+E:/play_data_structure/c++/binary_tree_link/binary_tree_link/BinaryTreeLink.h
+
+E:/play_data_structure/c++/binary_tree_link/binary_tree_link/BinaryTreeLink.h
+Node.h
+E:/play_data_structure/c++/binary_tree_link/binary_tree_link/Node.h
+iostream
+-
+
+E:/play_data_structure/c++/binary_tree_link/binary_tree_link/Node.h
+iostream
+-
+
